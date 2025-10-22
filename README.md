@@ -22,8 +22,8 @@ Follow these steps to set up and run the Trivia App on your local development en
 First, clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/lexizuchenna/hng-mobile-0.git
-cd hng-mobile-0
+git clone https://github.com/lexizuchenna/hng-mobile-1.git
+cd hng-mobile-1
 ```
 
 Next, install the required dependencies using npm or yarn:
